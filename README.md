@@ -1,2 +1,2 @@
-# HexGL
-racing game
+# RaceX Clone
+
